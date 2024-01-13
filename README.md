@@ -1,6 +1,11 @@
 ## About
 This is a landing page template for those who want to validate their idea and launch a start-up!
 
+## Features
+1. Compatible for both Desktop and Mobile view!
+2. Include Sign Up and Sign In pages
+3. Simple and easy for users to navigate. Perfect for those who want to validate their business idea!
+
 ## Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
