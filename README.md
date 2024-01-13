@@ -2,8 +2,7 @@
 This is a landing page template for those who want to validate their idea and launch a start-up!
 
 <img width="1468" alt="image" src="https://github.com/michaelwong753/palm-payment-website/assets/35266860/9454a906-4bbd-4aea-bbcf-3ee67313e147">
-![Uploading image.png…]()
-
+<img width="989" alt="image" src="https://github.com/michaelwong753/palm-payment-website/assets/35266860/f6cb2226-73d7-4a15-a475-751947faf824">
 
 For the complete look of the template, please refer to https://drive.google.com/file/d/1pnNGd63xLIg9tUS171IS3OaqMlyRS9io/view?usp=sharing
 
