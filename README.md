@@ -1,6 +1,8 @@
 ## About
 This is a landing page template for those who want to validate their idea and launch a start-up!
 
+For demo video, please go to https://drive.google.com/file/d/1pnNGd63xLIg9tUS171IS3OaqMlyRS9io/view?usp=sharing
+
 ## Features
 1. Compatible for both Desktop and Mobile view!
 2. Include Sign Up and Sign In pages
