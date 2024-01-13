@@ -1,7 +1,9 @@
 ## About
 This is a landing page template for those who want to validate their idea and launch a start-up!
 
-For demo video, please go to https://drive.google.com/file/d/1pnNGd63xLIg9tUS171IS3OaqMlyRS9io/view?usp=sharing
+<img width="1468" alt="image" src="https://github.com/michaelwong753/palm-payment-website/assets/35266860/9454a906-4bbd-4aea-bbcf-3ee67313e147">
+
+For the complete look of the template, please refer to https://drive.google.com/file/d/1pnNGd63xLIg9tUS171IS3OaqMlyRS9io/view?usp=sharing
 
 ## Features
 1. Compatible for both Desktop and Mobile view!
